@@ -14,7 +14,7 @@ Building practical applications at the intersection of artificial intelligence, 
 
 ## GitHub dashboard
 
-![Public GitHub metrics](metrics.svg)
+![Gowtham’s 3D GitHub contribution dashboard](https://raw.githubusercontent.com/gowthame006-a11y/SSAGI-V2.0/main/docs/profile-3d.svg)
 
 ## Technologies used across my projects
 
