@@ -28,7 +28,7 @@ I'm a B.Tech Artificial Intelligence and Data Science student at Kings Engineeri
 
 | Project | Focus |
 | --- | --- |
-| **SSAGI V2.0** | Multi-agent analysis and AI governance prototype that explores specialist assessments and orchestrated findings. Source repository is private. |
+| [**SSAGI V2.0**](https://github.com/gowthame006-a11y/SSAGI-V2.0) | Multi-agent analysis and AI governance prototype that explores specialist assessments and orchestrated findings. |
 | [**MetaTagger AI**](https://github.com/gowthame006-a11y/metatagger-ai) | Content categorization, keyword extraction, SEO metadata, and analysis history with React, TypeScript, and Motoko. |
 | [**BasketIQ**](https://github.com/gowthame006-a11y/basket-iq) | Market basket analysis project focused on purchase patterns and association rules. |
 
