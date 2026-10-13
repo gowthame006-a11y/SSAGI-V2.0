@@ -39,7 +39,7 @@ cells=[]
 for week_index,week in enumerate(calendar["weeks"]):
     for day_index,day in enumerate(week["contributionDays"]):
         x=85+week_index*17+day_index*17
-        y=330+week_index*2.65-day_index*8
+        y=370+week_index*2.0-day_index*8
         cells.append((y,x,day))
 for y,x,day in sorted(cells):
     count=day["contributionCount"]
