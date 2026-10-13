@@ -12,6 +12,14 @@ Building practical applications at the intersection of artificial intelligence, 
 
 ---
 
+## GitHub dashboard
+
+![Public GitHub metrics](metrics.svg)
+
+## Technologies used across my projects
+
+**React · TypeScript · Vite · Tailwind CSS · Motoko · Python · FastAPI**
+
 ## About me
 
 I'm a B.Tech Artificial Intelligence and Data Science student at Kings Engineering College, Chennai, graduating in 2027. My project interests include multi-agent analysis, content processing, retail analytics, and financial technology.
